@@ -1,2 +1,2 @@
-# Machine_Learning_DeepLearning.AI
-A machine learning course from Standford University
+# Deep Learning - Andrews Ng
+A Deep Learning course from Standford University
